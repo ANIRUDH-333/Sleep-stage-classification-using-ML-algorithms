@@ -56,11 +56,12 @@ Sleep stages are classified with the help of ML. We have used 4 different ML alg
   <details>
 <summary>Pillalamarri Akshaya</summary>
 
+   * <a href="https://github.com/akshayapillalamarri213">Github</a>
   
-  * <a href="https://www.facebook.com/Rock-Chaitanya-Reddy/">Facebook</a> 
+  * <a href="">Facebook</a> 
 
-  * <a href="https://www.instagram.com/__chaitanya.reddy__/">Instagram</a>
+  * <a href="">Instagram</a>
   
-  * <a href="https://www.linkedin.com/in/chaitanya-reddy-0702/">Linkedin</a>  
+  * <a href="https://www.linkedin.com/in/akshaya-pillalamarri-b990b419b/">Linkedin</a>  
   
   </details>
